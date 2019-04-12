@@ -4,7 +4,8 @@ import 'dart:async';
  * 异步事件流 Stream
  */
 void main(){
-  Stream.fromIterable([2,3,6]);
+  //获取stream的方法
+ var stream0 = new Stream.fromIterable([2,3,6]);
 
   StreamController controller = new StreamController();
   //监听这个流的出口，当有data流出时，打印这个data
