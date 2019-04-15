@@ -7,6 +7,6 @@ Flutter学习
 
 
 Dart相关学习内容
-1.Stream;
-2.Mixin;
-3.EventBus;
+1. Stream;
+2. Mixin;
+3. EventBus;
